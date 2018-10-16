@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A Letter to a Doctor
 
@@ -28,4 +28,3 @@ Intermittently I have also experienced looping musical hallucinations of recogni
 I really want to know what problem I have, whatever the treatment might be, because coming to terms with my disorder is necessary for my moral and mental integrity and wholeness.
  
 If it is psychosis, or a psychotic syndrome, I want to know honestly. And if it is some form of brain disorder or damage or dysfunction, I would like to know.
-
