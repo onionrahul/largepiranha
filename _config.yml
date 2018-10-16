@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-architect
+theme: brijeshb42/bitwiser-material
