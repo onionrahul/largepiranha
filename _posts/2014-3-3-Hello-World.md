@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: First post
 published: true
 ---
+## Strike
 Welcome to the piranha infested seas.
